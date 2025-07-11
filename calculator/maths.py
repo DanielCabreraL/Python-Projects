@@ -20,9 +20,9 @@ def calcs(num1, num2, selection):                                               
     elif selection == 2:
         print(f"Result of {num1} - {num2} = {subtraction(num1, num2)}")
     elif selection == 3:
-        print(f"Result of {num1} x {num2} = {multiplication(num1, num2)}")
-    elif selection == 4:
         print(f"Result of {num1} / {num2} = {division(num1, num2)}")
+    elif selection == 4:
+        print(f"Result of {num1} X {num2} = {multiplication(num1, num2)}")
     elif selection == 5:
         print(f"Result of {num1} ** {num2} = {potency(num1, num2)}")
     print("------------------------------------------------------------------------")
