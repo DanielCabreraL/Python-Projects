@@ -1,0 +1,22 @@
+/*              FIRST SETTINGS              */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #348;
+    color: #004;
+}
+
+div, ul, nav, header, footer, a, li, label, body {
+    margin: 0;
+    padding: 0;
+}
+
+/*              HEADER                      */
+
+.header {
+    
+}
